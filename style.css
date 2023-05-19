@@ -7,13 +7,19 @@ body{
 }
 h1{
     background-color: black;
+    font-size: small;
 }
 .cabecalho__animes {
     width: 24px;
     height: 24px;
     background-image: url(https://images.app.goo.gl/p8MxftmKwEmM36j97/img/Animes.svg);
+    background-repeat: no-repeat;
+    background-position: center;
     display: incline-block;
 }
 .cabecalho__animes {
     background-color: #a52a2a;
+    display: flex;
+    align-items: center;
 }
+
