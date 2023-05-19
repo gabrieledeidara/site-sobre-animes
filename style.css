@@ -1,6 +1,8 @@
-
+:root{
+    --cor-de-fundo: rgb(231, 150, 123);
+}
 body{
-    background-color: darksalmon;
+    background-color:  var(--cor-de-fundo);
 }
 h1{
     background-color: black;
