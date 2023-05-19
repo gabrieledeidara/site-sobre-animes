@@ -1,5 +1,6 @@
 :root{
     --cor-de-fundo: rgb(231, 150, 123);
+    --brown: #a52a2a
 }
 body{
     background-color:  var(--cor-de-fundo);
@@ -7,5 +8,12 @@ body{
 h1{
     background-color: black;
 }
-
-
+.cabecalho__animes {
+    width: 24px;
+    height: 24px;
+    background-image: url(https://images.app.goo.gl/p8MxftmKwEmM36j97/img/Animes.svg);
+    display: incline-block;
+}
+.cabecalho__animes {
+    background-color: #a52a2a;
+}
