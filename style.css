@@ -16,12 +16,18 @@ h1{
     background-repeat: no-repeat;
     background-position: center;
     display: flex;
+    justify-content: space-between;
+    position: relative;
 }
 .cabecalho__animes {
     background-color: #a52a2a;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.lista de animes {
+    padding: 1em;
+    background-color: #a52a2a;
 }
 
 .img1 {
