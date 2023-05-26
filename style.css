@@ -2,10 +2,10 @@
     --cor-de-fundo: rgba(141, 83, 63, 0.705);
     --brown: #a52a2a
 }
-.body{
+body{
     background-color:  var(--cor-de-fundo);
 }
-.h1{
+h1{
     background-color: black;
     font-size: small;
 }
