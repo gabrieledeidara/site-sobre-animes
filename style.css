@@ -2,10 +2,10 @@
     --cor-de-fundo: rgba(141, 83, 63, 0.705);
     --brown: #a52a2a
 }
-body{
+.body{
     background-color:  var(--cor-de-fundo);
 }
-h1{
+.h1{
     background-color: black;
     font-size: small;
 }
@@ -25,9 +25,21 @@ h1{
 }
 
 .img1 {
-    width: 100%;
+    width: 80%;
+}
+.img2 {
+    width: 75%;
+}
+.img3 {
+    width: 75%;
+}
+.imghinata {
+    width: 40%;
+}
+.imgkages {
+    width: 40%;
 }
 
-container {
+.container {
 
 }
