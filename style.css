@@ -1,6 +1,7 @@
 :root{
     --cor-de-fundo: rgba(141, 83, 63, 0.705);
     --brown: #a52a2a
+    --brown-degrade: linear-gradiant
 }
 body{
     background-color:  var(--cor-de-fundo);
