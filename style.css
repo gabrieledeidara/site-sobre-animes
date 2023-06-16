@@ -1,14 +1,13 @@
  :root{
     --cor-de-fundo: rgba(167, 57, 20, 0.856);
     --brown: #964e2c;
-    --brown-degrade: linear-gradient(10,20);
 }
 body{
     background-color:  var(--cor-de-fundo);
 }
 li class {
     font-size: 50px;
-    background: linear-gradient(10,20);
+
 }
 h1{
     font-size: 40px;
