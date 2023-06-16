@@ -1,7 +1,7 @@
 :root{
     --cor-de-fundo: rgba(141, 83, 63, 0.705);
-    --brown: #a52a2a
-    --brown-degrade: linear-gradiant
+    --brown: #a52a2a;
+    --brown-degrade: linear-gradient(,);
 }
 body{
     background-color:  var(--cor-de-fundo);
@@ -16,8 +16,12 @@ h2 {
 
 }
 h3 {
-    background-color: black;
-    font-size: medium;
+    
+    font-size: 40px;
+}
+h4 {
+font-size: 40px ;
+
 }
 .cabecalho__animes {
     width: 24px;
@@ -49,7 +53,10 @@ h3 {
 .img3 {
     width: 75%;
 }
-.kagehina {
+.imghinata {
+    width: 30%;
+}
+.imgkages {
     width: 30%;
 }
 
