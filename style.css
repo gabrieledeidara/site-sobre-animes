@@ -7,21 +7,16 @@ body{
     background-color:  var(--cor-de-fundo);
 }
 h1{
-    background-color: black;
-    font-size: small;
+    font-size: 40px;
 }
 h2 {
-    
     font-size: 40px;
-
 }
 h3 {
-    
     font-size: 40px;
 }
 h4 {
 font-size: 40px ;
-
 }
 .cabecalho__animes {
     width: 24px;
