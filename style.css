@@ -39,21 +39,21 @@ font-size: 40px ;
 }
 
 .img1 {
-    width: 90%;
+    width: 100%;
 }
 .img2 {
-    width: 80%;
+    width: 90%;
 }
 .img3 {
     width: 90%;
 }
 .imghinata {
     width: 30%;
-    display: flex;
+    display: inline-flex;
 }
 .imgkages {
     width: 30%;
-    display: flex;
+    display: inline-flex;
 }
 
 .container {
