@@ -1,10 +1,6 @@
- :root{
-    --cor-de-fundo: rgba(184, 63, 23, 0.856);
-    --brown: #7e452b;
 
-}
 body{
-    background-image: linear-gradient( --brown,--cor-de-fundo);
+    background-image: linear-gradient( rgb(94, 65, 27), rgba(131, 65, 10, 0.822) );
 
 }
 h1{
