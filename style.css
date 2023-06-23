@@ -48,15 +48,10 @@ font-size: 40px ;
 .img3 {
     width: 90%;
 }
-.imghinata {
-    width: 30%;
-    display: inline-flex;
+.haikyuu{
+    display:flex ;
+    justify-content: center;
 }
-.imgkages {
-    width: 30%;
-    display: incline-flex;
-}
-
 .container {
 
 }
