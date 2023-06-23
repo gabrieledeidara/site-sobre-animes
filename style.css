@@ -1,7 +1,7 @@
  :root{
     --cor-de-fundo: rgba(167, 57, 20, 0.856);
     --brown: #964e2c;
-    background-image: -o-linear-gradient(167, 57, 20, 0.856);
+
 }
 body{
     background-color:  var(--cor-de-fundo);
@@ -57,8 +57,8 @@ div.haikyuu {
     display: inline-flex;
 }
 .imgkages {
-    width: 30%;
-    display: inline-flex;
+    width:30%;
+    display: incline-flex;
 }
 
 .container {
