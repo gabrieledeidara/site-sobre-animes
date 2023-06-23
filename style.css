@@ -1,10 +1,11 @@
  :root{
-    --cor-de-fundo: rgba(167, 57, 20, 0.856);
+    --cor-de-fundo: rgba(184, 63, 23, 0.856);
     --brown: #964e2c;
 
 }
 body{
-    background-color:  var(--cor-de-fundo);
+    background-image: linear-gradient( --brown,--cor-de-fundo);
+
 }
 h1{
     font-size: 40px;
